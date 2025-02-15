@@ -1,4 +1,4 @@
-# NeuralNameForge
+# Neural Name Forge
 
 A neural network playground for understanding character-level language models through name generation.
 
